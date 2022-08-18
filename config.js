@@ -68,7 +68,7 @@ global.f6 = 'application/vnd.android.package-archive'
 global.author = 'ZIM BOT INC'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['!']
 global.sp = '⭔'
 global.mess = {
     success: '*success whoa*',
