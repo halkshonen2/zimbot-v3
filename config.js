@@ -70,7 +70,7 @@ global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tru
 global.sessionName = 'session'
 global.prefa = '-'
 global.sp = '⭔'
-global.mess = {
+global.mess = {-}
     success: '*success whoa*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
     horny: '*nsfw is disabled please ask owner to enable it*',
@@ -82,7 +82,7 @@ global.mess = {
     bot: '*Special Features for User Bot Number okay*',
     wait: '*whoa wait zim bot processing okay*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
-}
+22_8_session_id_430b_0119_79_LyFE
 global.limitawal = {
     premium: "Infinity",
     free: 25
